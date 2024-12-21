@@ -1,5 +1,6 @@
 ﻿using System.Windows;
 using Splat;
+using MetricViewModel;
 
 namespace MetricApp
 {

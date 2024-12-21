@@ -1,4 +1,5 @@
 ﻿using MetricInfrastructure.Storage.Interfaces;
+using MetricViewModel;
 using Splat;
 
 namespace MetricApp.DependencyInjection
